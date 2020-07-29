@@ -3,13 +3,13 @@
 A flutter app. Design copied from https://github.com/abuanwar072
 
 ![Image of Main Screen with All Products]
-(https://github.com/anohene1/furniture_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-29%20at%2015.40.32.png)
+(https://github.com/anohene1/furniture_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-29%20at%2015.40.32.png?raw=true)
 
 ![Image of Main Screen with Lounge Products]
-(https://github.com/anohene1/furniture_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-29%20at%2015.40.44.png)
+(https://github.com/anohene1/furniture_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-29%20at%2015.40.44.png?raw=true)
 
 ![Image of Detail Screen}
-(https://github.com/anohene1/furniture_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-29%20at%2015.41.04.png)
+(https://github.com/anohene1/furniture_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-29%20at%2015.41.04.png?raw=true)
 
 ## Getting Started
 
